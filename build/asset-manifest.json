@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe47bedd.css",
+    "main.js": "/static/js/main.2b5b7ceb.js",
+    "static/js/787.3a39cd02.chunk.js": "/static/js/787.3a39cd02.chunk.js",
+    "static/media/landing-bg2.png": "/static/media/landing-bg2.a1d0ab6fdc3e0da2c3c2.png",
+    "static/media/mobile_HeroBackgroundImg.png": "/static/media/mobile_HeroBackgroundImg.c22699f3d4071b82d9b0.png",
+    "static/media/asset-bg.png": "/static/media/asset-bg.e6309429a438d246d495.png",
+    "static/media/asset-lifecycle2.png": "/static/media/asset-lifecycle2.1579bfb6700f940eb085.png",
+    "static/media/3rdSectionBackground.png": "/static/media/3rdSectionBackground.baa4b36eedc0ed19ce6e.png",
+    "static/media/footerBg.png": "/static/media/footerBg.bf46e3e9ddf3afe7c87f.png",
+    "static/media/borrowPageBackground.jpg": "/static/media/borrowPageBackground.495ada673b3cb89a7720.jpg",
+    "static/media/blockHouseBackground.png": "/static/media/blockHouseBackground.2a753fa1f879617e3760.png",
+    "static/media/card1.png": "/static/media/card1.deddaed875b1b57ab9d5.png",
+    "static/media/card2.png": "/static/media/card2.737063c2450e169d29a1.png",
+    "static/media/Tick.png": "/static/media/Tick.3564e85538c03bbc40da.png",
+    "static/media/card3.png": "/static/media/card3.cb1561f0cd74bd173507.png",
+    "static/media/Tick-2.png": "/static/media/Tick-2.1232550f7acd13598e01.png",
+    "static/media/keplerIcon.png": "/static/media/keplerIcon.263c0dca5815317f266a.png",
+    "static/media/headerNavBackground.png": "/static/media/headerNavBackground.cc592d47cf8d60efde45.png",
+    "static/media/BLOCKHOUSE.png": "/static/media/BLOCKHOUSE.afb7426f397abe29b4f4.png",
+    "static/media/card5.png": "/static/media/card5.051bea00dbe3e9d99b73.png",
+    "static/media/card4.png": "/static/media/card4.76cae2c7cdf782544805.png",
+    "static/media/card6.png": "/static/media/card6.fc40247ef9b7a05d398a.png",
+    "index.html": "/index.html",
+    "main.fe47bedd.css.map": "/static/css/main.fe47bedd.css.map",
+    "main.2b5b7ceb.js.map": "/static/js/main.2b5b7ceb.js.map",
+    "787.3a39cd02.chunk.js.map": "/static/js/787.3a39cd02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe47bedd.css",
+    "static/js/main.2b5b7ceb.js"
+  ]
+}
